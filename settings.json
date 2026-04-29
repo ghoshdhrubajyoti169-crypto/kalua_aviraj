@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "avirajkalua",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "avirajkalua",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "lifesteal-SvW2.aternos.me",
     "port": 59835,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
